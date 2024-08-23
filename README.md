@@ -6,7 +6,7 @@ Hello! I'm Sarach Sriklab, a passionate Business Intelligence Analyst with a kna
 
 🔧 Skills & Expertise
 
-Data Visualization: End-to-end creation of interactive dashboards using Power BI.
+#Data Visualization: End-to-end creation of interactive dashboards using Power BI.
 
 Data Modeling: Building efficient data models to streamline reporting and analytics.
 
