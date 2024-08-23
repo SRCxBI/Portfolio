@@ -6,23 +6,23 @@ Hello! I'm Sarach Sriklab, a passionate Business Intelligence Analyst with a kna
 
 🔧 Skills & Expertise
 
-#Data Visualization: End-to-end creation of interactive dashboards using Power BI.
+<b>Data Visualization<b>: End-to-end creation of interactive dashboards using Power BI.
 
-Data Modeling: Building efficient data models to streamline reporting and analytics.
+<b>Data Modeling<b>: Building efficient data models to streamline reporting and analytics.
 
-DAX & SQL: Advanced calculations and data aggregation to deliver precise insights.
+<b>DAX & SQL<b>: Advanced calculations and data aggregation to deliver precise insights.
 
-Database Management: Working with Athena S3 and other databases to extract and manipulate data.
+<b>Database Management<b>: Working with Athena S3 and other databases to extract and manipulate data.
 
-Analytical Thinking: Translating business requirements into data-driven solutions.
+<b>Analytical Thinking<b>: Translating business requirements into data-driven solutions.
 
 🌟 Featured Projects
 
-Special Event Dashboard: An interactive dashboard to track and analyze event performance.
+<b>Special Event Dashboard<b>: An interactive dashboard to track and analyze event performance.
 
-Booking Window & Lead Time Analysis: Insights into customer booking behavior to optimize planning.
+<b>Booking Window & Lead Time Analysis<b>: Insights into customer booking behavior to optimize planning.
 
-Hotel Performance Dashboard: Comprehensive reports on key performance indicators for hotel management.
+<b>Hotel Performance Dashboard<b>: Comprehensive reports on key performance indicators for hotel management.
 
 
 🌍 About Me
