@@ -17,9 +17,13 @@ Database Management: Working with Athena S3 and other databases to extract and m
 Analytical Thinking: Translating business requirements into data-driven solutions.
 
 🌟 Featured Projects
+
 Special Event Dashboard: An interactive dashboard to track and analyze event performance.
+
 Booking Window & Lead Time Analysis: Insights into customer booking behavior to optimize planning.
+
 Hotel Performance Dashboard: Comprehensive reports on key performance indicators for hotel management.
+
 
 🌍 About Me
 I’m currently working at Minor Hotel, where I collaborate with stakeholders to deliver powerful visual tools that help make data-driven decisions. My journey in the world of data has always been about curiosity, innovation, and continuous learning.
